@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+.modal-btn {
+  background-color: transparent !important;
+  border: 0ch;
+  padding: 0ch;
+  color: white;
+}
+
+.modal-box {
+  background-color: #2a303c;
+  width: 60rem !important;
+}
+
+.main-page {
+  /* background-image: url("https://thumbs.gfycat.com/AcceptableGreedyDutchsmoushond-size_restricted.gif"); */
+
+  background-image: url("https://wallpaperaccess.com/full/849790.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-image: url("https://w.wallhaven.cc/full/zm/wallhaven-zm7pvo.jpg"); */
+  /* background-image: url("https://w.wallhaven.cc/full/6k/wallhaven-6km2kq.jpg"); */
+  /* background-image: url("https://w.wallhaven.cc/full/k9/wallhaven-k912lq.png"); */
+  /* background-image: url("https://w.wallhaven.cc/full/l8/wallhaven-l83o92.jpg"); */
+}
